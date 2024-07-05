@@ -184,11 +184,6 @@ If you like this project please give it a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
   
 
-- I would like to thank Cindy Shin for this beautiful design(https://www.behance.net/adagio07)
-- I would like to thank microverse for their amazing school program
-- I would like to thank the code reviewer for reviewing my project
-- Watch🙏(https://www.loom.com/share/5cca07fe06174baab741632c0fedf1a9)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
